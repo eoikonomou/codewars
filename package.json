@@ -1,0 +1,27 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Solution to codewars kata",
+  "main": "kata_1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusoikonomou/codewars.git"
+  },
+  "keywords": [
+    "codewars",
+    "kata",
+    "js"
+  ],
+  "author": "Efstathios Oikonomou <eusoikonomou@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eusoikonomou/codewars/issues"
+  },
+  "homepage": "https://github.com/eusoikonomou/codewars#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
